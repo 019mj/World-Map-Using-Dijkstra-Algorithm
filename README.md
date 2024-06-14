@@ -1,12 +1,12 @@
 # World-Map-Using-Dijkstra-Algorithm
 
-The following project is an enhanced small version of Google Maps using Dijkstra Algorithm for Educational Puposes.
-To achive this project I have used my enhanced data structuers such as Heap, Hash Maps, Linked Lists and Graph.
+The following project is an enhanced small version of Google Maps using Dijkstra Algorithm for Educational Purposes.
+To achieve this project I have used my enhanced data structures such as Heap, Hash Maps, Linked Lists and Graph.
 
-To help creating a creatful graphical user experience, Advanced Java FX techniques were applied.
+To help creating a creative graphical user experience, Advanced Java FX techniques were applied.
 
-All of the data in the file "countries.txt" are real data including the langtitude and latitude of a country and the edges between countries.
-The following are sceenshot from the program:
+All of the data in the file "countries.txt" are real data including the longitude and latitude of a country and the edges between countries.
+The following are screenshots from the program:
 
 ![image](https://github.com/019mj/World-Map-Using-Dijkstra-Algorithm/assets/131479958/6a478f3e-8dad-4d00-8815-b94fe6d56e37)
 
@@ -17,5 +17,4 @@ The following are sceenshot from the program:
 ![image](https://github.com/019mj/World-Map-Using-Dijkstra-Algorithm/assets/131479958/b4eacc5a-5faf-4436-bcb8-c1b10aeb082d)
 
 Quick note: I think this project will be my masterpiece!
-
-Quick note: My instructer (Iyad Jaber) said to me (شغلك مرتب مرتب مرتب ، ماشاء الله عنك والله), probablly it's the first time he said something like that to a human being.
+Quick note: My instructor (Iyad Jaber) said to me (شغلك مرتب مرتب مرتب ، ماشاء الله عنك والله), probably it's the first time he said something like that to a human being.
