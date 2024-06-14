@@ -1,0 +1,609 @@
+51, 556
+United States Of America, 38.8951, -77.0364
+Jaber, 0, 0
+xx, 60, 60
+Germany, 52.5244, 13.4105
+Canada, 45.4166, -75.698
+Turkey, 39.9199, 32.8543
+China, 39.9075, 116.3972
+Russia, 55.755, 37.6218
+Algeria, 36.7525, 3.042
+Iran, 35.6944, 51.4215
+France, 48.8534, 2.3488
+South Africa, -33.9258, 18.4232
+Norway, 59.9127, 10.7461
+Sweden, 59.3326, 18.0649
+Finland, 60.1692, 24.9402
+United Kingdom, 51.5085, -0.1257
+Egypt, 30.0392, 31.2394
+United Arab Emirates, 24.4648, 54.3618
+Saudi Arabia, 24.6905, 46.7096
+Brazil, -15.7797, -47.9297
+Australia, -35.2835, 149.1281
+Denmark, 55.6759, 12.5655
+Ivory Coast, 5.3453, -4.0268
+Italy, 41.8947, 12.4811
+Ukraine, 50.4454, 30.5186
+Morocco, 34.0133, -6.8326
+Indonesia, -6.2118, 106.8416
+Niger, 13.5137, 2.1098
+Argentina, -34.6051, -58.4004
+Japan, 35.6895, 139.6917
+Spain, 40.4165, -3.7026
+Greece, 37.9534, 23.749
+Iceland, 64.1355, -21.8954
+Peru, -12.0432, -77.0282
+Angola, -8.8368, 13.2343
+Nigeria, 9.0574, 7.4898
+Mexico, 19.4273, -99.1419
+Somalia, 2.0416, 45.3435
+Pakistan, 33.7035, 73.0594
+Thailand, 13.722, 100.5252
+Vietnam, 21.0245, 105.8412
+Iraq, 33.3406, 44.4009
+Poland, 52.2298, 21.0118
+Palestine, 31.7834, 35.2339
+Chad, 12.1067, 15.0444
+Ireland, 53.3331, -6.2489
+New Zealand, -41.2866, 174.7756
+Chile, -33.4569, -70.6483
+South Korea, 37.5683, 126.9778
+Belgium, 50.8467, 4.3499
+Jordan, 31.9552, 35.945
+United States Of America, Pakistan
+United States Of America, Egypt
+United States Of America, Canada
+United States Of America, Iceland
+United States Of America, Peru
+United States Of America, Brazil
+United States Of America, Japan
+United States Of America, Germany
+United States Of America, Saudi Arabia
+United States Of America, Ukraine
+United States Of America, Nigeria
+United States Of America, South Korea
+United States Of America, United Kingdom
+United States Of America, Jordan
+United States Of America, Australia
+Germany, United States Of America
+Germany, United Kingdom
+Germany, Egypt
+Germany, Italy
+Germany, Morocco
+Germany, Ukraine
+Germany, Sweden
+Germany, Russia
+Germany, Turkey
+Germany, Denmark
+Canada, United States Of America
+Canada, Jordan
+Canada, South Korea
+Canada, Germany
+Canada, Turkey
+Canada, France
+Canada, Norway
+Canada, United Arab Emirates
+Turkey, Canada
+Turkey, United Arab Emirates
+Turkey, Jordan
+Turkey, Germany
+Turkey, Japan
+Turkey, Algeria
+Turkey, Australia
+Turkey, Indonesia
+China, Turkey
+China, Russia
+China, Italy
+China, Ivory Coast
+China, Japan
+China, Ireland
+China, Thailand
+China, Pakistan
+China, United Arab Emirates
+China, Spain
+China, Germany
+China, Sweden
+China, Niger
+China, Iran
+China, Indonesia
+Russia, Germany
+Russia, China
+Russia, Iran
+Russia, Turkey
+Russia, Ireland
+Russia, Pakistan
+Russia, Ivory Coast
+Russia, Egypt
+Russia, Thailand
+Russia, Poland
+Algeria, Egypt
+Algeria, Morocco
+Algeria, South Africa
+Algeria, Nigeria
+Algeria, Vietnam
+Algeria, Angola
+Algeria, Chad
+Algeria, Jordan
+Algeria, Spain
+Algeria, Indonesia
+Algeria, Saudi Arabia
+Algeria, Iraq
+Algeria, France
+Iran, Russia
+Iran, Indonesia
+Iran, Niger
+Iran, South Korea
+Iran, Japan
+Iran, Ireland
+Iran, Thailand
+Iran, Ivory Coast
+Iran, Morocco
+Iran, Iraq
+France, Algeria
+France, Spain
+France, Sweden
+France, Finland
+France, Germany
+France, United Kingdom
+France, Greece
+France, Denmark
+France, Belgium
+France, United States Of America
+France, Russia
+France, Egypt
+France, Somalia
+France, South Korea
+South Africa, Turkey
+South Africa, United States Of America
+South Africa, Spain
+South Africa, Chad
+South Africa, Ireland
+South Africa, Pakistan
+xx, France
+Norway, Somalia
+Norway, Italy
+Norway, Greece
+Norway, Denmark
+Norway, Finland
+Norway, Iceland
+Norway, Spain
+Norway, Germany
+Norway, Poland
+Sweden, Thailand
+Sweden, United States Of America
+Sweden, United Arab Emirates
+Sweden, Morocco
+Sweden, Italy
+Sweden, Iceland
+Sweden, Spain
+Sweden, Finland
+Sweden, Poland
+Sweden, Spain
+Sweden, Peru
+Sweden, Norway
+Sweden, Greece
+Sweden, Poland
+Sweden, Belgium
+Sweden, Russia
+Finland, Russia
+Finland, Somalia
+Finland, Niger
+Finland, Norway
+Finland, South Korea
+Finland, Saudi Arabia
+Finland, Canada
+United Kingdom, Argentina
+United Kingdom, Chile
+United Kingdom, South Africa
+United Kingdom, Belgium
+United Kingdom, China
+United Kingdom, Japan
+United Kingdom, Niger
+United Kingdom, Jordan
+United Kingdom, United States Of America
+United Kingdom, Russia
+United Kingdom, Iceland
+United Kingdom, Iran
+United Kingdom, Saudi Arabia
+United Kingdom, Sweden
+United Kingdom, Finland
+United Kingdom, Australia
+United Kingdom, Belgium
+United Kingdom, Germany
+United Kingdom, Iceland
+United Kingdom, Spain
+United Kingdom, Morocco
+United Kingdom, Angola
+United Kingdom, Brazil
+United Kingdom, Thailand
+Egypt, Jordan
+Egypt, South Africa
+Egypt, South Korea
+Egypt, United Kingdom
+Egypt, China
+Egypt, Niger
+Egypt, Russia
+Egypt, Nigeria
+Egypt, Saudi Arabia
+Egypt, United States Of America
+Egypt, Angola
+United Arab Emirates, Brazil
+United Arab Emirates, United States Of America
+United Arab Emirates, China
+United Arab Emirates, Nigeria
+United Arab Emirates, Egypt
+United Arab Emirates, Australia
+United Arab Emirates, New Zealand
+United Arab Emirates, Saudi Arabia
+United Arab Emirates, United Kingdom
+United Arab Emirates, Spain
+United Arab Emirates, Italy
+United Arab Emirates, Germany
+United Arab Emirates, France
+United Arab Emirates, Canada
+United Arab Emirates, Turkey
+United Arab Emirates, Ireland
+United Arab Emirates, Algeria
+United Arab Emirates, Mexico
+United Arab Emirates, Finland
+United Arab Emirates, Thailand
+United Arab Emirates, Russia
+Saudi Arabia, United Arab Emirates
+Saudi Arabia, Jordan
+Saudi Arabia, Morocco
+Saudi Arabia, South Africa
+Saudi Arabia, United Kingdom
+Saudi Arabia, Germany
+Saudi Arabia, France
+Saudi Arabia, Italy
+Saudi Arabia, Japan
+Saudi Arabia, Niger
+Saudi Arabia, Iraq
+Brazil, Mexico
+Brazil, Argentina
+Brazil, Peru
+Brazil, South Africa
+Brazil, United States Of America
+Brazil, Turkey
+Brazil, United Kingdom
+Brazil, Germany
+Australia, Argentina
+Australia, Chile
+Australia, Mexico
+Australia, United States Of America
+Australia, Canada
+Australia, New Zealand
+Australia, South Korea
+Australia, Pakistan
+Australia, Nigeria
+Australia, South Africa
+Australia, Indonesia
+Denmark, Egypt
+Denmark, Algeria
+Denmark, United Arab Emirates
+Denmark, China
+Denmark, South Korea
+Denmark, Russia
+Denmark, Germany
+Denmark, Italy
+Denmark, Somalia
+Denmark, Poland
+Denmark, Russia
+Denmark, Norway
+Denmark, Spain
+Denmark, Belgium
+Denmark, Iceland
+Denmark, Thailand
+Ivory Coast, United Arab Emirates
+Ivory Coast, Russia
+Ivory Coast, Poland
+Ivory Coast, Ukraine
+Ivory Coast, Germany
+Ivory Coast, Turkey
+Italy, Germany
+Italy, Ukraine
+Italy, Brazil
+Italy, Argentina
+Italy, United States Of America
+Italy, Canada
+Italy, Mexico
+Italy, Egypt
+Italy, Morocco
+Italy, Saudi Arabia
+Italy, United Arab Emirates
+Italy, China
+Italy, Japan
+Italy, Norway
+Italy, Spain
+Italy, Iceland
+Italy, Finland
+Ukraine, Niger
+Ukraine, United Arab Emirates
+Ukraine, Iran
+Ukraine, Egypt
+Ukraine, United States Of America
+Ukraine, Poland
+Ukraine, Greece
+Ukraine, United Kingdom
+Ukraine, Finland
+Ukraine, Spain
+Ukraine, Sweden
+Ukraine, France
+Ukraine, Italy
+Ukraine, Denmark
+Ukraine, Belgium
+Ukraine, United Kingdom
+Morocco, Russia
+Morocco, Egypt
+Morocco, Saudi Arabia
+Morocco, United Arab Emirates
+Morocco, United States Of America
+Morocco, Turkey
+Morocco, Italy
+Morocco, Spain
+Morocco, Belgium
+Morocco, Poland
+Morocco, Greece
+Morocco, United Kingdom
+Morocco, Angola
+Morocco, Vietnam
+Morocco, Nigeria
+Morocco, Algeria
+Indonesia, China
+Indonesia, Niger
+Indonesia, Japan
+Indonesia, Australia
+Indonesia, Ireland
+Indonesia, South Korea
+Indonesia, Vietnam
+Indonesia, Chad
+Indonesia, United Arab Emirates
+Indonesia, United Kingdom
+Indonesia, Jordan
+Niger, United States Of America
+Niger, Saudi Arabia
+Niger, Iran
+Niger, Japan
+Niger, China
+Niger, Ivory Coast
+Niger, Australia
+Niger, France
+Niger, Italy
+Niger, Russia
+Niger, United Kingdom
+Niger, Germany
+Argentina, Chile
+Argentina, Mexico
+Argentina, Brazil
+Argentina, Peru
+Japan, Egypt
+Japan, Mexico
+Japan, Australia
+Japan, New Zealand
+Japan, United States Of America
+Japan, Niger
+Japan, United Kingdom
+Japan, Spain
+Japan, Italy
+Japan, France
+Japan, China
+Japan, Niger
+Japan, Pakistan
+Japan, United Arab Emirates
+Japan, Greece
+Japan, Germany
+Japan, Indonesia
+Japan, Ireland
+Spain, Peru
+Spain, Brazil
+Spain, Argentina
+Spain, Mexico
+Spain, United States Of America
+Spain, Poland
+Spain, Belgium
+Spain, Finland
+Spain, United Kingdom
+Spain, Norway
+Spain, Italy
+Spain, France
+Spain, Denmark
+Spain, Greece
+Spain, Egypt
+Spain, Morocco
+Spain, Egypt
+Spain, Algeria
+Spain, United Arab Emirates
+Spain, Saudi Arabia
+Spain, Russia
+Spain, Japan
+Spain, Jordan
+Spain, China
+Spain, Japan
+Spain, Pakistan
+Spain, South Korea
+Spain, Jordan
+Greece, Egypt
+Greece, United States Of America
+Greece, China
+Greece, Russia
+Greece, Saudi Arabia
+Greece, Finland
+Greece, Spain
+Greece, Germany
+Greece, Italy
+Greece, Somalia
+Greece, Poland
+Greece, Belgium
+Greece, Indonesia
+Greece, Jordan
+Iceland, United States Of America
+Iceland, Somalia
+Iceland, Denmark
+Iceland, Belgium
+Iceland, Greece
+Iceland, Italy
+Iceland, Norway
+Iceland, United Kingdom
+Peru, Chile
+Peru, Mexico
+Peru, Brazil
+Peru, Argentina
+Peru, United States Of America
+Peru, United Kingdom
+Peru, France
+Angola, Chad
+Angola, Nigeria
+Angola, South Africa
+Angola, Egypt
+Angola, Algeria
+Angola, Brazil
+Angola, Spain
+Angola, Germany
+Angola, France
+Nigeria, Egypt
+Nigeria, Chad
+Nigeria, South Africa
+Nigeria, Turkey
+Nigeria, United Kingdom
+Nigeria, France
+Nigeria, Pakistan
+Mexico, Japan
+Mexico, United States Of America
+Mexico, Brazil
+Mexico, Peru
+Mexico, Argentina
+Mexico, Canada
+Mexico, Spain
+Mexico, France
+Mexico, United Kingdom
+Mexico, Turkey
+Mexico, Germany
+Somalia, Iceland
+Somalia, Denmark
+Somalia, Greece
+Somalia, Finland
+Somalia, Sweden
+Somalia, Ukraine
+Pakistan, China
+Pakistan, Japan
+Pakistan, Ivory Coast
+Pakistan, Ireland
+Pakistan, Turkey
+Pakistan, United States Of America
+Pakistan, United Kingdom
+Pakistan, Saudi Arabia
+Thailand, New Zealand
+Thailand, Australia
+Thailand, Japan
+Thailand, Ivory Coast
+Thailand, China
+Thailand, Egypt
+Thailand, Russia
+Thailand, Germany
+Thailand, France
+Thailand, Sweden
+Thailand, Norway
+Vietnam, Chad
+Vietnam, Angola
+Vietnam, Turkey
+Vietnam, Iran
+Vietnam, South Africa
+Iraq, United Arab Emirates
+Iraq, Jordan
+Iraq, Egypt
+Iraq, Saudi Arabia
+Iraq, Turkey
+Iraq, Indonesia
+Iraq, Pakistan
+Iraq, Iran
+Poland, United States Of America
+Poland, Greece
+Poland, Spain
+Poland, Ukraine
+Poland, Denmark
+Poland, Greece
+Poland, Germany
+Poland, Jordan
+Poland, Niger
+Poland, United Arab Emirates
+Poland, Japan
+Poland, China
+Poland, United Kingdom
+Poland, Somalia
+Poland, Iceland
+Poland, Sweden
+Palestine, Jordan
+Chad, France
+Chad, Nigeria
+Chad, Angola
+Chad, Egypt
+Chad, Turkey
+Ireland, Russia
+Ireland, Ivory Coast
+Ireland, China
+Ireland, Japan
+Ireland, Indonesia
+Ireland, Germany
+Ireland, South Korea
+Ireland, Turkey
+New Zealand, Australia
+Chile, Brazil
+Chile, Peru
+Chile, Argentina
+Chile, Mexico
+Chile, France
+Chile, Spain
+Chile, United Kingdom
+Chile, Germany
+South Korea, Japan
+South Korea, United States Of America
+South Korea, Canada
+South Korea, China
+South Korea, Ivory Coast
+South Korea, Niger
+South Korea, Finland
+South Korea, United Kingdom
+South Korea, Spain
+South Korea, Norway
+South Korea, Russia
+South Korea, Germany
+South Korea, Italy
+South Korea, France
+South Korea, Morocco
+South Korea, Australia
+South Korea, New Zealand
+South Korea, Ireland
+South Korea, Turkey
+Belgium, Mexico
+Belgium, United States Of America
+Belgium, Japan
+Belgium, China
+Belgium, Russia
+Belgium, United Arab Emirates
+Belgium, Saudi Arabia
+Belgium, Nigeria
+Belgium, Morocco
+Belgium, Algeria
+Belgium, Greece
+Belgium, Spain
+Belgium, Somalia
+Belgium, Iceland
+Belgium, Ukraine
+Belgium, Poland
+Belgium, Italy
+Belgium, France
+Belgium, Sweden
+Jordan, United Arab Emirates
+Jordan, Algeria
+Jordan, Egypt
+Jordan, Germany
+Jordan, China
+Jordan, Iraq
+Jordan, Morocco
+Jordan, Palestine
+Jordan, China
+Jordan, Japan
+Jordan, Spain
+Jordan, Russia
+Jordan, Spain
+Jordan, Indonesia
