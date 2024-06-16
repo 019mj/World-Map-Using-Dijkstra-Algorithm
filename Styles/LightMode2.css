@@ -1,0 +1,91 @@
+.root {
+    -fx-base: #EADBC8; /* Light peach replaces the light grey base */
+    -fx-background: #F1F1F1; /* Light grey background */
+    -fx-control-inner-background: #C7B7A3; /* Medium beige for control backgrounds */
+    -fx-text-base-color: #141E46; /* Dark blue for text */
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #42604E; /* Dark green for buttons */
+    -fx-text-fill: #F1F1F1; /* Light grey for text */
+    -fx-background-radius: 20px;
+    -fx-padding: 0.5em 1em;
+    -fx-font-size: 20px;
+}
+
+.button:hover {
+    -fx-background-color: #C7B7A3; /* Medium beige for hover */
+}
+
+.text-field {
+    -fx-background-color: #EADBC8; /* Light peach for text field backgrounds */
+    -fx-text-fill: #141E46; /* Dark blue for text */
+    -fx-font-size: 14px;
+    -fx-background-radius: 10px;
+    -fx-padding: 0.5em;
+    -fx-prompt-text-fill: #939393;
+}
+
+.text-area {
+    -fx-background-color: #EADBC8; /* Light peach for text area backgrounds */
+    -fx-text-fill: #141E46; /* Dark blue for text */
+    -fx-font-size: 14px;
+    -fx-background-radius: 10px;
+    -fx-padding: 0.5em;
+    -fx-alignment: top-left;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab > .tab-container > .tab-label {
+    -fx-background-color: #42604E; /* Dark green for tabs */
+    -fx-text-fill: #F1F1F1; /* Light grey text */
+    -fx-background-radius: 20px 20px 0 0;
+    -fx-padding: 0.5em 1em;
+    -fx-font-size: 14px;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab:selected > .tab-container > .tab-label {
+    -fx-background-color: #C7B7A3; /* Medium beige for selected tabs */
+    -fx-background-radius: 20px 20px 0 0;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab:hover > .tab-container > .tab-label {
+    -fx-background-color: #C7B7A3; /* Medium beige for hover */
+}
+
+.check-box {
+    -fx-background-color: transparent;
+    -fx-text-fill: #141E46; /* Dark blue for text */
+    -fx-font-size: 14px;
+}
+
+.check-box .box {
+    -fx-background-color: #EADBC8; /* Light peach for checkbox */
+    -fx-border-color: #141E46; /* Dark blue for border */
+}
+
+.root {
+    -fx-background-image: url("../Images/wallpaper2.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.alert {
+    -fx-background-color: #F1F1F1; /* Light grey for alert background */
+}
+
+.alert .header-panel {
+    -fx-background-color: #C7B7A3; /* Medium beige for alert header */
+    -fx-text-fill: black;
+}
+
+.map-image {
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0.5, 0, 0);
+    -fx-padding: 10;
+    -fx-background-color: white;
+    -fx-background-radius: 20;
+    -fx-border-color: #4285F4, #DB4437, #F4B400, #0F9D58; /* Google colors */
+    -fx-border-width: 5; /* Adjust border width as needed */
+    -fx-border-radius: 20;
+    -fx-border-insets: -5;
+}
